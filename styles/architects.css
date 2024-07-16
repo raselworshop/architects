@@ -190,7 +190,7 @@ main > section{
     background-color: rgba(255, 244, 231, 1);
 }
 .footer h4{
-
+    font-size: 20px;
 }
 
 /* responsive media query */
